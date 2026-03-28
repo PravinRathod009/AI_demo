@@ -1,4 +1,4 @@
 # AI_demo
 This is my first repository
 <br/>
-Auther-Pravin Rathod
+Auther-Pravin Rathod (My new startup)
